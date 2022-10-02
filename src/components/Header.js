@@ -15,6 +15,9 @@ export default function Header(props){
                         <li
                             className={`displaying-${
                                 currentNavTitle.titleName === category.titleName}`} key={category.titleName}
+                                onClick={() => {
+                                    setCurrentNavTitle(category);
+                                    }}
                         >
                             <span onClick={() => {
                                 setCurrentNavTitle(category);

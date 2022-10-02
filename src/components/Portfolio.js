@@ -48,7 +48,7 @@ export default function Portfolio(){
                     <div className="app-card" key={app.title}>
                         <h3>{app.title}</h3>
                         <img
-                            className="app-card-img"
+                            className="app-card-img image"
                             src={require(`../assets/images/${app.imageName}.JPG`)}
                             alt={app.title}
                         />
