@@ -8,14 +8,13 @@ export default function Header(props){
     } = props;
     return(
         <header>
-            <h1>Sarah Stelljes</h1>
+            <h1>Sarah E. Stelljes</h1>
             <nav>
                 <ul>
                     {categories.map((category) => (
                         <li
-                            className={`${
-                                currentNavTitle.titleName === category.titleName && category.titleName
-                            }`} key={category.titleName}
+                            className={`displaying-${
+                                currentNavTitle.titleName === category.titleName}`} key={category.titleName}
                         >
                             <span onClick={() => {
                                 setCurrentNavTitle(category);
