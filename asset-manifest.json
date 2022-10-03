@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/try-everything-portfolio/static/css/main.66d722f4.css",
+    "main.js": "/try-everything-portfolio/static/js/main.e7d29bc2.js",
+    "static/js/787.a1e9c572.chunk.js": "/try-everything-portfolio/static/js/787.a1e9c572.chunk.js",
+    "static/media/Sarah_picture.jpg": "/try-everything-portfolio/static/media/Sarah_picture.53fe848fefc207341917.jpg",
+    "static/media/pizza-hunt.JPG": "/try-everything-portfolio/static/media/pizza-hunt.ce33046f79e43480a77b.JPG",
+    "static/media/zookeepr.JPG": "/try-everything-portfolio/static/media/zookeepr.fa3134d2da5762c73de4.JPG",
+    "static/media/mechtech-blog.JPG": "/try-everything-portfolio/static/media/mechtech-blog.1c74ea4f01cd424b05cf.JPG",
+    "static/media/contact-cards.JPG": "/try-everything-portfolio/static/media/contact-cards.7ab5b38346456a496afa.JPG",
+    "static/media/satori-notes.JPG": "/try-everything-portfolio/static/media/satori-notes.8366ebccf5c92ee95009.JPG",
+    "static/media/TextEdor-JATE.JPG": "/try-everything-portfolio/static/media/TextEdor-JATE.e61f9f339cdffad6af00.JPG",
+    "static/media/Resume2022102.zip": "/try-everything-portfolio/static/media/Resume2022102.37d93caa4dd5f6ba7c63.zip",
+    "index.html": "/try-everything-portfolio/index.html",
+    "main.66d722f4.css.map": "/try-everything-portfolio/static/css/main.66d722f4.css.map",
+    "main.e7d29bc2.js.map": "/try-everything-portfolio/static/js/main.e7d29bc2.js.map",
+    "787.a1e9c572.chunk.js.map": "/try-everything-portfolio/static/js/787.a1e9c572.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66d722f4.css",
+    "static/js/main.e7d29bc2.js"
+  ]
+}
