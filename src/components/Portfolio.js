@@ -37,6 +37,12 @@ export default function Portfolio(){
             deployedLink: 'https://safe-brook-63406.herokuapp.com/',
             gitHubLink: 'https://github.com/SarahStelljes/pizza-hunt',
             imageName: 'pizza-hunt'
+        },
+        {
+            title: 'Paradise Produce',
+            deployedLink: 'https://peaceful-mesa-42883.herokuapp.com/',
+            gitHubLink: 'https://github.com/bradleyparris/Paradise-Produce',
+            imageName: 'Paradise-Produce'
         }
     ]);
 
