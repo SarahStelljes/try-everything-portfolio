@@ -7,7 +7,7 @@ export default function Resume(){
             <h2>MY RESUME</h2>
             <div>
                 <a 
-                    href={require("../assets/resume/Resume2022102.zip")}
+                    href={require("../assets/resume/Resume2022.10.2.zip")}
                     download="sarah-stelljes-resume.zip"
                 >
                     Download my Resume!
